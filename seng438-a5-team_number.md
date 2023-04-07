@@ -22,11 +22,11 @@ After choosing the two graphs to look at in more detail, we have to decide what 
 
 MVF Graph:
 
-<img src="Img_A4/R_OLD.png" alt="Img_A4/R_OLD.png" width="360"/>
+<img src="Img_A5/P1_MVF.png" alt="Img_A5/P1_MVF.png" width="360"/>
 
 Intensity Graph:
 
-<img src="Img_A4/R_OLD.png" alt="Img_A4/R_OLD.png" width="360"/>
+<img src="Img_A5/P1_I.png" alt="Img_A5/P1_I.png" width="360"/>
 
 If we are given a target failure rate we can look at the graphs that we have created and decide whether the program meets the target.  Unfortunately, we don’t know the exact value of the failure rate/MTTF of the program which makes it difficult to do an accurate comparison to the target failure rate. 
 
@@ -37,15 +37,15 @@ One advantage for using reliability growth analysis is it is easy to determine w
 
 Normal:
 
-<img src="Img_A4/R_OLD.png" alt="Img_A4/R_OLD.png" width="360"/>
+<img src="Img_A5/P2_N.png" alt="Img_A5/P2_N.png" width="360"/>
 
 Half:
 
-<img src="Img_A4/R_OLD.png" alt="Img_A4/R_OLD.png" width="360"/>
+<img src="Img_A5/P2_H.png" alt="Img_A5/P2_H.png" width="360"/>
 
 Double:
 
-<img src="Img_A4/R_OLD.png" alt="Img_A4/R_OLD.png" width="360"/>
+<img src="Img_A5/P2_D.png" alt="Img_A5/P2_D.png" width="360"/>
 
 How we decided on 42 as the MTTF is by trial and error.  We started with 50 and found out that it was too big, so we decreased the value until the graph was below the line that marks the red and yellow area (the Reject and Continue areas).
 
